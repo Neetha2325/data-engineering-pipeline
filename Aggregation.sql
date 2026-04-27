@@ -1,0 +1,1 @@
+Select sum(Amount) from sales_details;
